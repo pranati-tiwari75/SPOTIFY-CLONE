@@ -5,9 +5,9 @@
 A simple music streaming platform using HTML and CSS.
 
 ## DEMO
-![Screenshot 1](./SSC1.png.png)
-![Screenshot 2](./SSC2.png.png)
-![Screenshot 3](./SSC3.png.png)
+![Screenshot 1](./SSC1.png)
+![Screenshot 2](./SSC2.png)
+![Screenshot 3](./SSC3.png)
 
 ## Installation
 - Clone the repository: git clone [https://github.com/your-username/your-repository.git](https://github.com/your-username/your-repository.git)
