@@ -5,6 +5,6 @@
 A simple music streaming platform using HTML and CSS.
 
 ## DEMO
-![Alt Text](SSC1.png.png/SS)
-![Alt Text](SSC2.png.png/SS)
-![Alt Text](SSC3.png.png/SS)
+![Screenshot 1](./SSC1.png.png)
+![Screenshot 2](./SSC2.png.png)
+![Screenshot 3](./SSC3.png.png)
